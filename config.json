@@ -1,0 +1,52 @@
+[
+  {
+    "type": "tint",
+    "weight": 95,
+    "suffix": "50"
+  },
+  {
+    "type": "tint",
+    "weight": 76,
+    "suffix": "100"
+  },
+  {
+    "type": "tint",
+    "weight": 57,
+    "suffix": "200"
+  },
+  {
+    "type": "tint",
+    "weight": 38,
+    "suffix": "300"
+  },
+  {
+    "type": "tint",
+    "weight": 19,
+    "suffix": "400"
+  },
+  {
+    "type": "base",
+    "weight": 0,
+    "suffix": "500"
+  },
+  {
+    "type": "shade",
+    "weight": 15,
+    "suffix": "600"
+  },
+  {
+    "type": "shade",
+    "weight": 30,
+    "suffix": "700"
+  },
+  {
+    "type": "shade",
+    "weight": 45,
+    "suffix": "800"
+  },
+  {
+    "type": "shade",
+    "weight": 60,
+    "suffix": "900"
+  }
+]

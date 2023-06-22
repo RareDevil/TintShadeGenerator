@@ -1,0 +1,15 @@
+{
+  "name": "tintshadegenerator",
+  "version": "1.0.0",
+  "description": "This is tint/shade generator for css variables",
+  "main": "generator.js",
+  "scripts": {
+    "run": "node generator.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "RareDevil",
+  "license": "MIT",
+  "dependencies": {
+    "values.js": "^2.1.1"
+  }
+}
